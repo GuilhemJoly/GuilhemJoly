@@ -18,6 +18,7 @@
 
 | Projet             | Github                                                | Live Demo | Description |
 |--------------------|-------------------------------------------------------|-----------|-------------|
+|E-commerce product page | [Github](https://github.com/GuilhemJoly/ecommerce-product-page-main) | [Live](https://challenge-ecommerce-product-page.vercel.app/) | Exercise for integrating a web page and developing a functional dropdown cart in desktop and mobile version|
 |Intro section with dropdown navigation main | [Github](https://github.com/GuilhemJoly/intro-section-with-dropdown-navigation-main) | [Live](https://intro-section-with-dropdown-navigation-main-eta-lovat.vercel.app/) | Exercise for integrating a web page and developing desktop and mobile dropdown navigation |
 | Social links profil main | [Github](https://github.com/GuilhemJoly/social-links-profil-main) | [Live](https://social-links-profil-main.vercel.app/) | Exercise for integrating a profile card with social links |
 
