@@ -1,4 +1,7 @@
-## 👋 Hey, I'm Guilhem ! <br> I'm passionate about web development. <br> 🚀 Feel free to explore my repositories and get in touch !
+## Bonjour, je m'appelle Guilhem ! <br> Je participe depuis sa création au développement de l'application mobile Dolismart <img width="25" height="25" alt="adaptive-icon" src="https://github.com/user-attachments/assets/43d40f66-5fab-409f-8c20-d306f42bd9e1" />
+ directement liée à l'environnement de Dolibarr ![dolibarr_logo](https://github.com/user-attachments/assets/cf900769-af61-4532-9a09-954863c63fc2)
+ <br> J'ai également développé le jeu Art of reflex <img width="25" height="25" alt="icon512" src="https://github.com/user-attachments/assets/3f73d7a1-9acf-44c1-9ef1-26657762fada" />
+
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhemJoly&layout=compact&theme=radical)
 
