@@ -1,13 +1,15 @@
-## Bonjour, je m'appelle Guilhem ! <br> Je participe depuis sa création au développement de l'application mobile Dolismart <img width="30" height="30" alt="adaptive-icon" src="https://github.com/user-attachments/assets/43d40f66-5fab-409f-8c20-d306f42bd9e1" /> directement liée à l'environnement de Dolibarr.<br> J'ai également développé le jeu Art of reflex <img width="30" height="30" alt="icon512" src="https://github.com/user-attachments/assets/3f73d7a1-9acf-44c1-9ef1-26657762fada" />
+## Bonjour, je m'appelle Guilhem ! <br> Je participe depuis sa création au développement de l'application mobile Dolismart <img width="30" height="30" alt="adaptive-icon" src="https://github.com/user-attachments/assets/43d40f66-5fab-409f-8c20-d306f42bd9e1" /> directement liée à l'environnement de Dolibarr.<br> J'ai également développé le jeu Art of reflex <img width="30" height="30" alt="icon512" src="https://github.com/user-attachments/assets/3f73d7a1-9acf-44c1-9ef1-26657762fada"  ainsi que plusieurs sites web, y compris le Woocommerce du site de Dolismart./>
 
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhemJoly&layout=compact&theme=radical)
 
 ## Links
 
-- [Portfolio](https://guilhemjoly.vercel.app/)
+- [Webuneo](https://webuneo.fr/)
 - [LinkedIn](https://linkedin.com/in/guilhem-joly/)
 - [GitHub](https://github.com/GuilhemJoly)
+- [Art of reflex](https://webuneo.fr/artofreflex)
+- [Dolismart](https://dolismart.com)
 
 ## My public projects
 
