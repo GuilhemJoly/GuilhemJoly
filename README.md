@@ -1,5 +1,5 @@
-## Bonjour, je m'appelle Guilhem ! <br> Je participe depuis sa création au développement de l'application mobile Dolismart <img width="25" height="25" alt="adaptive-icon" src="https://github.com/user-attachments/assets/43d40f66-5fab-409f-8c20-d306f42bd9e1" />
- directement liée à l'environnement de Dolibarr.
+## Bonjour, je m'appelle Guilhem ! 
+<br> Je participe depuis sa création au développement de l'application mobile Dolismart <img width="25" height="25" alt="adaptive-icon" src="https://github.com/user-attachments/assets/43d40f66-5fab-409f-8c20-d306f42bd9e1" /> directement liée à l'environnement de Dolibarr.
  <br> J'ai également développé le jeu Art of reflex <img width="25" height="25" alt="icon512" src="https://github.com/user-attachments/assets/3f73d7a1-9acf-44c1-9ef1-26657762fada" />
 
 
