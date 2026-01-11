@@ -1,8 +1,5 @@
 ## Bonjour, je m'appelle Guilhem ! <br> Je participe depuis sa création au développement de l'application mobile Dolismart <img width="30" height="30" alt="adaptive-icon" src="https://github.com/user-attachments/assets/43d40f66-5fab-409f-8c20-d306f42bd9e1" /> qui est directement liée à l'environnement de l'ERP Dolibarr.<br> J'ai également développé l'application mobile Routine App, plusieurs jeu sur mobile Androïd ainsi que plusieurs sites web, y compris le Woocommerce de Dolismart.
 
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhemJoly&layout=compact&theme=radical)
-
 ## Links
 
 - [Webuneo](https://webuneo.fr/)
