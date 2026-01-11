@@ -25,6 +25,5 @@
 | Social links profil main | [Github](https://github.com/GuilhemJoly/social-links-profil-main) | [Live](https://social-links-profil-main.vercel.app/) | Exercise for integrating a profile card with social links |
 
 ## Statistics
-![Guilhem Joly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhemJoly&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuilhemJoly&theme=radical)
